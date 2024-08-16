@@ -1,0 +1,31 @@
+[
+    {
+        "selector": "#substance-use-button",
+        "group": "example0",
+        "position": "top",
+        "headline": "Angular Logo",
+        "details": "This is the angular logo",
+        "descriptions": [
+            {
+                "language": "de",
+                "headline": "html tag headline de",
+                "details": "htmp tag details de"
+            }
+        ]
+    },
+    {
+        "selector": "#mental-health-button",
+        "group": "example1",
+        "position": "right",
+        "textAlign": "left",
+        "headline": "What is behind me?",
+        "details": "You have to learn a lot about this button",
+        "descriptions": [
+            {
+                "language": "de",
+                "headline": "html tag headline de",
+                "details": "htmp tag details de"
+            }
+        ]
+    }
+]
